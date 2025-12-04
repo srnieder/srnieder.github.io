@@ -1,8 +1,3 @@
----
-title: Dr Simon Nieder
-layout: default
----
-
 # Dr Simon Nieder
 
 Hello 👋  
