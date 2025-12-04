@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+---
+title: Dr Simon Nieder
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/srnieder/srnieder.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Dr Simon Nieder
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello 👋  
+You’ve reached a small corner of my online world that is currently being rebuilt at human speed.
 
-### Markdown
+I’m an independent researcher with a background in electronic engineering and geophysics, working at the intersection of:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- how humans make meaning,
+- how increasingly automated systems reshape that process,
+- and how we can design technology that still leaves room for genuine judgment, doubt, and care.
 
-```markdown
-Syntax highlighted code block
+This site will eventually become a gentle hub for a few related threads:
 
-# Header 1
-## Header 2
-### Header 3
+- **Atlas** – my long-running project for mapping lived experience, ethics, and systems thinking.  
+- **EpistML** – a small “observatory” for how machine learning changes the conditions of knowing.  
+- **Music & churches** – organ playing, choral work, and the quiet spaces that keep me grounded.
 
-- Bulleted
-- List
+For now, think of this page as a holding space rather than a finished statement.
 
-1. Numbered
-2. List
+If you’re curious about the ML side of my work, you can visit the early EpistML presence on Hugging Face:
 
-**Bold** and _Italic_ and `Code` text
+👉 https://huggingface.co/EpisteML
 
-[Link](url) and ![Image](src)
-```
+More will arrive here in its own time, at a pace that remains compatible with a human nervous system.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/srnieder/srnieder.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thanks for visiting, and for your patience while this place finds its new shape.
